@@ -17,9 +17,9 @@ The purpose of this project is to experiment with the different algorithms that 
 
 # Requirements
 
-![Static Badge](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&labelColor=black)
-![Static Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white&labelColor=yellow)
-![Static Badge](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=Qiskit&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white&labelColor=black&link=https%3A%2F%2Fjupyter.org%2F)
+![Static Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white&labelColor=black&link=https%3A%2F%2Fwww.python.org%2F)
+![Static Badge](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=Qiskit&labelColor=black&link=https%3A%2F%2Fdocs.quantum.ibm.com%2F)
 
 # Licencies
 
