@@ -34,7 +34,7 @@ pip install qiskit[visualization]
 
 # Documentation
 
-[[1]](https://github.com/kaitouser/QML_TFG/blob/fdb6e5706691e82a84005a49182faed39801465e/Initial%20report/Report/Initial_report.pdf) Initial report
+[[1]](https://github.com/kaitouser/QML_TFG/blob/d71f04b7f191ca446d577f28cbfe7871e80e2c48/Tutorial/Quantum%20encoding/Quantum_representations_tutorial.ipynb#L841) Qubit Lattice
 
 # Credits
 In collaboration with Universitat Autònoma de Barcelona (UAB).
