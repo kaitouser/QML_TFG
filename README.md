@@ -25,7 +25,7 @@ First, we have to create a notebook using the Jupyter webapp we just installed.
 
 Now, here are the command lines required to install the packages in our notebook:
 ~~~
-%pip install requirements.txt
+!pip install requirements.txt
 ~~~
 
 This tutorial isn't available for newer versions of Qiskit (>= v1.0).
