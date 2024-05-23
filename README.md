@@ -35,16 +35,16 @@ This tutorial isn't available for newer versions of Qiskit (>= v1.0).
 During this [tutorial](https://github.com/kaitouser/QML_TFG/blob/d71f04b7f191ca446d577f28cbfe7871e80e2c48/Tutorial/Quantum%20encoding/Quantum_representations_tutorial.ipynb) there are different types of quantum algorithms explained, grouped by main types or patterns called representations:
 
  - Continous representation:
-   - QSMC_QSNC
-   - OQIM
+   - [QSMC_QSNC](https://www.researchgate.net/publication/257641707_Image_storage_retrieval_compression_and_segmentation_in_a_quantum_system)
+   - [OQIM](https://doi.org/10.1007/s11128-019-2463-7)
  - Discrete representation:
-    - NEQR
-    - BRQI
-    - GQIR
+    - [NEQR](https://doi.org/10.1007/s11128-013-0567-z)
+    - [BRQI](https://ieeexplore.ieee.org/document/8470069)
+    - [GQIR](https://doi.org/10.1007/s11128-015-1099-5)
  - Mixed representation:
-    - Qubit Lattice
-    - FRQI
-    - MCRQI
+    - [Qubit Lattice](https://doi.org/10.1117/12.485960)
+    - [FRQI](https://doi.org/10.1007/s11128-010-0177-y)
+    - [MCRQI](https://ieeexplore.ieee.org/document/6051718)
 
 # Credits
 In collaboration with Universitat Autònoma de Barcelona (UAB).
