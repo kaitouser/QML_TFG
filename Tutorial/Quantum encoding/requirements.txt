@@ -1,0 +1,6 @@
+math
+numpy
+matplotlib
+qiskit-aer
+qiskit=="0.46"
+qiskit[visualization]
