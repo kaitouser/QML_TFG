@@ -53,3 +53,15 @@ def calculate_mse(counts1, counts2):
         mse += (p1 - p2) ** 2
     mse /= len(keys)
     return mse
+
+# This function is used for plotting the mean-squared error graphic.
+
+def plot_mse(shots_list, mse_list):
+    plt.figure(figsize=(12, 6))
+    plt.plot(shots_list, mse_list, marker='o', linestyle='-', color='b')
+    plt.xlabel('Number of Shots', fontsize=14)
+    plt.ylabel('Mean Squared Error (MSE)', fontsize=14)
+    plt.yscale('log')
+    plt.title('Noise', fontsize=16)
+    plt.grid(True, which="both", ls="--")
+    plt.show()
