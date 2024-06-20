@@ -1,5 +1,7 @@
 numpy
 matplotlib
 qiskit-aer
-qiskit=="0.46"
+qiskit==0.46.1
 qiskit[visualization]
+opencv-python
+scikit-image
