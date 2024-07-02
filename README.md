@@ -5,7 +5,6 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/kaitouser?style=flat-square&logo=github"/>
   <img src="https://img.shields.io/github/commit-activity/t/kaitouser/QML_TFG?style=flat-square&color=green"/>
-  <img src="https://img.shields.io/pypi/l/qiskit?style=flat-square&color=orange"/>
 </p>
 
 # Description
@@ -45,11 +44,10 @@ During this [tutorial](https://github.com/kaitouser/QML_TFG/blob/d71f04b7f191ca4
     - [Qubit Lattice](https://doi.org/10.1117/12.485960)
     - [FRQI](https://doi.org/10.1007/s11128-010-0177-y)
     - [MCRQI](https://ieeexplore.ieee.org/document/6051718)
+  
+Part of the content included in this tutorial comes from Marina Lisnichenko work, which can be access in the [referenced GitHub](https://github.com/UralmashFox/QPI).
 
 # Credits
 In collaboration with Universitat Autònoma de Barcelona (UAB).
 
 Proper credits to professor Fernando Vilariño and Quantum Physicist Matías Bilkis for helping to develop this project.
-
-# Licencies
-This project is for evaluation purposes.
