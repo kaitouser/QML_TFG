@@ -5,7 +5,6 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/kaitouser?style=flat-square&logo=github"/>
   <img src="https://img.shields.io/github/commit-activity/t/kaitouser/QML_TFG?style=flat-square&color=green"/>
-  <img src="https://img.shields.io/pypi/l/qiskit?style=flat-square&color=orange"/>
 </p>
 
 # Description
