@@ -45,7 +45,7 @@ During this [tutorial](https://github.com/kaitouser/QML_TFG/blob/d71f04b7f191ca4
     - [FRQI](https://doi.org/10.1007/s11128-010-0177-y)
     - [MCRQI](https://ieeexplore.ieee.org/document/6051718)
   
-Part of the content included in this tutorial comes from Marina Lisnichenko work, which can be access in the [referenced GitHub](https://github.com/UralmashFox/QPI).
+Part of the content included in this tutorial is based on Marina Lisnichenko's work, which can be access in the [referenced GitHub](https://github.com/UralmashFox/QPI).
 
 # Credits
 In collaboration with Universitat Autònoma de Barcelona (UAB).
